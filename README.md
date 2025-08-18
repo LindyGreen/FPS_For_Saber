@@ -1,1 +1,1 @@
-# Boss For Saber limit 72h from friday 00:00 to Sunday 23:59
+# Boss For Saber's test: 12h spent on  the code, two hours on the video, and the documentation 
